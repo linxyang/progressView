@@ -23,4 +23,4 @@ NSArray *timeArray = @[@10,@10,@10];//时间数组，则圆环上显示3点分�
 self.progressView.timeArray = timeArray;
 
 ```
-![image](https://github.com/linxyang/progressView/blob/master/screenshots/1.gif)
+![image](https://github.com/linxyang/progressView/blob/master/1.gif)
